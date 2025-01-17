@@ -1,4 +1,4 @@
-#AI-8th-Sem-Language-Detection
+# AI-8th-Sem-Language-Detection
 
 This is a GitHub repository that I made to submit my AI Assignment. 
 
